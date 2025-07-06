@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/syedaaqib25/LeetCodePratice/tree/master/0001-two-sum) |
+| [0735-asteroid-collision](https://github.com/syedaaqib25/LeetCodePratice/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/syedaaqib25/LeetCodePratice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/syedaaqib25/LeetCodePratice/tree/master/0013-roman-to-integer) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/syedaaqib25/LeetCodePratice/tree/master/0735-asteroid-collision) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/syedaaqib25/LeetCodePratice/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
